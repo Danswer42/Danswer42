@@ -10,7 +10,7 @@
 
 <p align="left">
 🎓 Estudiante de Ingenieria en Computación
-🎓 Aprendiz en desarrollo web
+🎓 Aprendiz en desarrollo web en Lexpin
   
 <!--Intro end-->
   </p>
@@ -20,7 +20,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,js,git,github,linux" />
+    <img src="https://skillicons.dev/icons?i=css,html,js,git,github,linux,sass,tailwind" />
   </a>
 </p>
 <br>
