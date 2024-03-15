@@ -10,6 +10,8 @@
 
 <p align="left">
 🎓 Estudiante de Ingenieria en Computación
+🎓 Aprendiz en desarrollo web
+  
 <!--Intro end-->
   </p>
 <br>
